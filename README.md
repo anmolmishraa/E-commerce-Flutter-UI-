@@ -1,4 +1,6 @@
 # E-commerce-Flutter-UI-
+**E-commerce application written in Flutter. The application is completely focused on performance and time saving**
+
 
 ![1](https://user-images.githubusercontent.com/69979663/133926891-6af433bb-f7c2-4a4b-a4dd-7573a468a541.png)
 ![2](https://user-images.githubusercontent.com/69979663/133926896-2b2dabc9-300c-4b13-a30a-d534854c928e.png)
